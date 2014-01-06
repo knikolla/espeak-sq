@@ -11,7 +11,7 @@ dh	D@
 _e	e
 f	f@
 g	g@
-gj	dZ;@
+gj	J@
 h	h@
 _i	i
 j	j@
@@ -86,11 +86,11 @@ _??	SkR'On^a
 _cap	_Em'aDE
 
 *	ylli  $max3	// ylli
-+	pllus  $max3	// pllus
++	plus  $max3	// plus
 .	pik  $max3	// pikë
 =	baRab'aRt	// barabart
-!	piktSud'itsE  $max3	// pikëuditëse
-%	p@tSindja  $max3 // pëçindja
+!	pik@tSud'itsE  $max3	// pikëuditëse
+%	p@RtSind  $max3 // përqind
 @	manki		// manki
 &	_DE		// dhe
 /	pj'Estim	// pjestim
@@ -108,7 +108,7 @@ _<	m'@E||v,OgEl	// më e vogel
 _>	m'@Em'aDE	// më e madhe
 _?	pikpytjE	// pikëpytje
 __	n,Vn||v'iz	// nën vizë
-_"	apOstROf	// apostrof
+_"	apOstrOf	// apostrof
 _(	kll'apaE||v'Og@l  // kllapa e vogël (e majtë)
 _)	kll'apaE||v'Og@lE||dj'aTt // kllapa e vogël (e djathtë)
 _[	kll'apaE||m'aDE	// kllapa e madhe
@@ -121,7 +121,7 @@ _\	vizEmaItT'yEsE
 i	$u+
 u	$u+
 
-e	$u+ $brk
+e	$u+ $pause $brk
 e	e	$atend   // name of letter 'e'
 dhe	$u+ $pause   // and
 ose	$u+ $pause   // or
@@ -134,12 +134,12 @@ sikur	$u+ $pause   // as
 si	$u+ $pause   // as 
 
 më	$u+
-në	$u+
+në	$u+ $pause
 që	$u+
 së	$u+
 të	$u+
 
-për	$u+
+//për	$u+
 me	$u+
 se	$u+
 nga	$u+
@@ -149,10 +149,5 @@ janë	$u+
 
 
 // pronunciation exceptions
-muaj	muaI
-muaji	m'uaI;i
-tuaj    tuaI
 
-(sa më)	samm
-kështu	$2
 

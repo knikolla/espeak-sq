@@ -6,14 +6,13 @@
 
 .group a
         a        a
-        aj       aI
-        a (_     A   // if stressed
-        a (rK    A
+        a (_     A  // if stressed ??
 
-     @) at (_    =at
-     @) ave (_   =avE
-     @) arëve (_ =aR@vE
-     @) ani (q_  =ani
+        
+        a (n     'a
+        
+        a (r_    =a
+        a (t_    =a
 
 .group b
         b        b
@@ -30,47 +29,41 @@
 
 .group e
         e        E
-     j) e        e
-    n^) e        e
-     q) e        e
-     l) e        e
-    ll) e        E
-    sh) e        e
-        e (j     e
-        ej (K    eI
-        e (sh    e
-        e (sj    e
 
-     @) en (_    =En
-     @) es (_    =Es
-     @) et (_    =Et
-     @) eve (_   =EvE
-     @) evi (q_  =Evi
+        
+        e (c     'E
+        e (t_    'E // largoh'et
+    dh) e (_     'E // atdh'e, përdh'e
+    
+    gj) e        'E
+    
+    @C) e (ve    =E // punimeve
+    @q) e (_     =E
+    @q) e (t_    =E // hiqet
+    @k) e (t_    =E // duket
+    @u) e (s_    =E // banues
+        
+
+    _f) e        'E
 
 .group ë
-        ë        V
-    n^) ë        I#
-    AC) ë (_     @/    // silent
-   Aht) ë (_     @/    // silent
-   Ast) ë (_     @/    // silent
-   AjC) ë (_     @/    // silent
-   ArC) ë (_     @/    // silent
-  AL03) ë (_     @/    // silent
-     @) ë (X     %V
+        ë        @
+     
+     R) ë       =R'@
+     
+    gj) ë (_    =@
 
-     @) ëse (_   =@sE
-     @) ësi (_   =@si
-     @) ëta (_   =@ta
-     @) ëve (_   =@vE
-     @) ëvi (_   =@vi
-     @) ësisht (_ =sISt
+    @r) ë (t_    =@ // gjuetarët
+    @t) ë (s_    =@ // gjykatës
+    @t) ë (n_    =@ // gjykatën
+    @f) ë (r     =@ // afër
 
 .group f
         f        f
 
 .group g
         g        g
-        gj       dZ;
+        gj       J
 
 .group h
         h        h
@@ -78,19 +71,33 @@
 
 .group i
         i        i
-        ie       je
-        ij (K    i:
+        
+    _a) i (_     'i
 
-   @ic) i (_     'i
-   @ër) i (_     'i
-     @) im (_    =im
-     @) in (_    =In
-     @) i (q_    =i
-     @) i (t_    =I
+    rs) i (_     'i
+    es) i (_     'i
+    
+        i (shin  'i // kishin
+        i (min   'i // fillimin
+        i (t_    'i // tranzit
+     
         i (un_   'i
+     v) i (t     'i // vit
+        i (në_   'i // historine
+
+   @n)  i (t_    =i // shkumbinit
+   @s)  i (t_    =i // pusit
+   im)  i (t_    =i // mashtrimit
+   @t)  i (t_    =i // fshatit
+   @l)  i (t     =i
+   @r)  i (t_    =i // janarit
+    
+    m)  i (t      i
+    d)  i (t     'i
 
 .group j
         j        j
+        j (es    j
 
 .group k
         k        k
@@ -108,9 +115,16 @@
 
 .group o
         o        O
-        oj (K    OI
-        oi (l_   OI
-        ovi(q_  =Ovi
+        
+        o (rin  'O //territorin
+        
+        o (pës  'O
+
+        o (j    'O
+        o (h    'O
+        
+    // _C) o      'O
+    nd) o       'O
 
 .group p
         p        p
@@ -121,10 +135,10 @@
 .group r
         r        R
         r (K     R
-        rr       RR2
-     _) rr       @R2
+        rr       R2
+     _) rr       R2
 
-     _) rre (gulla @R2'e
+     _) rre (gulla R2'e
 
 
 .group s
@@ -139,16 +153,18 @@
 
 .group u
         u        u
-        ua       wA   // diphthong ??
-        u (ajK   w
-     t) u (an_   'u
-        u (ar_   'u
-//        ue       we
+        
+        u (n_    =u
+
+        u (an_   'u
 
         u (ara_  'u
         u (esve_ 'u
-     @) u (n_    =u
-     @) u (r_    =u
+        u (esi
+        
+   @s)  u (r_    =u
+        
+
 
 .group v
         v        v
@@ -163,7 +179,8 @@
 
 .group y
         y        y
-        ye       yE    // diphthong
+
+    h)  y       'y
 
 .group z
         z        z
