@@ -1,4 +1,4 @@
-// translation rules for Albanian
+﻿// translation rules for Albanian
 // This file is UTF-8 encoded
 
 .L02 b d g gj xh
@@ -8,11 +8,13 @@
         a        a
         a (_     A  // if stressed ??
         
-        a (||a    =a_
-
    @C)  a (ve_   =a // m'asave
     u)  a        =a
         a (t_    =a
+
+        a (ri_   'a // gjuat'ari
+
+        antit (_ ='antit // emigr'antit
 
 .group b
         b        b
@@ -30,20 +32,29 @@
 .group e
         e        E
 
+        edhur (_  ='EDur
+        edhuri (_ ='EDuri
+
         
         e (c     'E
         e (t_    'E // largoh'et
     dh) e (_     'E // atdh'e, përdh'e
     
     gj) e        'E
+        e (tet_  'E // sht'etet
     
-    @C) e (ve    =E // punimeve
+    @C) e (ve    =E // pun'imeve
     @q) e (_     =E
-    @q) e (t_    =E // hiqet
-    @k) e (t_    =E // duket
-    @u) e (s_    =E // banues
-     i) e (ll    =E // miell
-    @j) e (n_    =E // rritjen, pjekjen
+    @q) e (t_    =E // h'iqet
+    @k) e (t_    =E // d'uket
+    @u) e (s_    =E // ban'ues
+     i) e (ll    =E // m'iell
+    @j) e (n_    =E // rr'itjen, pj'ekjen
+    @j) e (s_    =E // përpl'asjes
+    @s) e (s_    =E
+    @r) e (s_    =E
+        
+        e (sën_  'E
 
     _f) e        'E
     _c) e (C     ,E
@@ -60,7 +71,8 @@
     @f) ë (r     =@ // afër
     @C) ë (ta_   =@ // 'ulëta
     @C) ë (ve_   =@ // p'emëve, orëve
-    @C) ë (t_    =a // politik'anë, p'alët
+    @C) ë (t_    =@ // politik'anë, p'alët
+    @C) ë (s_    =@ // Shk'odrës
 
 .group f
         f        f
@@ -81,7 +93,8 @@
     rs) i (_     'i
     es) i (_     'i
     
-        i (shin  'i // kishin
+        ishin (_ ='ishin // kishin
+	itur  (_ ='itur // m'tur
         i (min   'i // fillimin
     z)  i (t_    'i // tranzit
 
@@ -90,16 +103,19 @@
         i (në_   'i // historine
         
         i (us_   =i // celsius
+   sht) i (n     =i // g'shtin
 
     @n) i (t_    =i // shkumbinit
     @s) i (t_    =i // pusit
     im) i (t_    =i // mashtrimit
     @t) i (t_    =i // fshatit
-    @l) i (t     =i
+    @l) i (t_    =i // k'alit
+    @l) i (n_    =i // k'alin, dj'alin
     @r) i (t_    =i // janarit
 
     m)  i (t      i
     d)  i (t     'i
+   nd)  i (t_    =i
 
 .group j
         j        j
@@ -191,6 +207,7 @@
         y        y
 
     h)  y       'y
+        y (e    'y
 
 .group z
         z        z
