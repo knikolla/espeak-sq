@@ -66,17 +66,17 @@ _2X	n^'I#zEt
 _3X	tR'iDjet%@/
 _4X	d'yzEt
 _5X	p'Es@/Djet%@/
-_6X	dZ;'aSt@/Djet%@/
+_6X	J'aSt@/Djet%@/
 _7X	St'at@/Djet%@/
 _8X	t'Et@/Djet%@/
-_9X	n'Vnt@/Djet%@/
+_9X	n'@nt@/Djet%@/
 
 _0C	c,ind
 _0M1	m,ij@/
 _0M2	miLi'On
 _0M3	miLi'ard
 _0and	%E
-_dpt	_pR'esja
+_dpt	_pR'esjE
 
 
 // symbols
@@ -149,5 +149,10 @@ janë	$u+
 
 
 // pronunciation exceptions
-
-
+disa dis'a
+muaj m'uaj
+këta k@t'a
+këto k@t'o
+keto k@t'o
+këtë k@t'@
+kete k@t'@ //probably misspelled, so interpret as above

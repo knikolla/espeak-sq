@@ -7,11 +7,11 @@
 .group a
         a        a
         a (_     A  // if stressed ??
+        
+        a (||a    =a_
 
-        
-        a (n     'a
-        
-        a (r_    =a
+   @C)  a (ve_   =a // m'asave
+    u)  a        =a
         a (t_    =a
 
 .group b
@@ -42,21 +42,25 @@
     @q) e (t_    =E // hiqet
     @k) e (t_    =E // duket
     @u) e (s_    =E // banues
-        
+     i) e (ll    =E // miell
+    @j) e (n_    =E // rritjen, pjekjen
 
     _f) e        'E
+    _c) e (C     ,E
 
 .group ë
         ë        @
      
-     R) ë       =R'@
+     R) ë        =R'@
      
-    gj) ë (_    =@
-
+   @gj) ë (_     '@
     @r) ë (t_    =@ // gjuetarët
     @t) ë (s_    =@ // gjykatës
     @t) ë (n_    =@ // gjykatën
     @f) ë (r     =@ // afër
+    @C) ë (ta_   =@ // 'ulëta
+    @C) ë (ve_   =@ // p'emëve, orëve
+    @C) ë (t_    =a // politik'anë, p'alët
 
 .group f
         f        f
@@ -79,19 +83,21 @@
     
         i (shin  'i // kishin
         i (min   'i // fillimin
-        i (t_    'i // tranzit
-     
+    z)  i (t_    'i // tranzit
+
         i (un_   'i
      v) i (t     'i // vit
         i (në_   'i // historine
+        
+        i (us_   =i // celsius
 
-   @n)  i (t_    =i // shkumbinit
-   @s)  i (t_    =i // pusit
-   im)  i (t_    =i // mashtrimit
-   @t)  i (t_    =i // fshatit
-   @l)  i (t     =i
-   @r)  i (t_    =i // janarit
-    
+    @n) i (t_    =i // shkumbinit
+    @s) i (t_    =i // pusit
+    im) i (t_    =i // mashtrimit
+    @t) i (t_    =i // fshatit
+    @l) i (t     =i
+    @r) i (t_    =i // janarit
+
     m)  i (t      i
     d)  i (t     'i
 
@@ -154,17 +160,21 @@
 .group u
         u        u
         
+        u (eshëm 'u
+        u (eshem 'u //probably refers to the above
+        
         u (n_    =u
-
         u (an_   'u
-
         u (ara_  'u
         u (esve_ 'u
-        u (esi
+        u (esi_  'u
+        
+        u (lla_  =u // petulla, mjegullë
+        u (llë_  =u
+        u (ll_   =u
         
    @s)  u (r_    =u
-        
-
+   @k)  u (r_    =u
 
 .group v
         v        v
@@ -186,6 +196,5 @@
         z        z
         zh       Z
 
-
 .group
-	$	dOllari
+	$	dOllar@
