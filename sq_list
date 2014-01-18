@@ -42,25 +42,25 @@ zh	Z@
 
 // numbers
 _0	z'E**O
-_1	n^'I#
+_1	n^'@
 _2	d'y
 _3	tR'E
 _4	k'at@R
 _5	p'Es@/
-_6	dZ;'aSt@/
+_6	J;'aSt@/
 _7	St'at@/
 _8	t'Et@/
-_9	n'Vnt@/
+_9	n'@nt@/
 _10	Dj'Et@/
-_11	n^'I#mb@/Djet@/
+_11	n^'@mb@/Djet@/
 _12	d'ymb@/Djet@/
 _13	tR'Emb@/Djet@/
 _14	k'at@rmb@/Djet@/
 _15	p'Es@mb@/Djet@/
-_16	dZ;'aSt@mb@/Djet@/
+_16	J;'aSt@mb@/Djet@/
 _17	St'at@mb@/Djet@/
 _18	t'Et@mb@/Djet@/
-_19	n'Vnt@mb@/Djet@/
+_19	n'@nt@mb@/Djet@/
 
 _2X	n^'I#zEt
 _3X	tR'iDjet%@/
@@ -71,7 +71,7 @@ _7X	St'at@/Djet%@/
 _8X	t'Et@/Djet%@/
 _9X	n'@nt@/Djet%@/
 
-_0C	c'ind
+_0C     c'ind
 _0M1	m'ij@/
 _0M2	miLi'On
 _0M3	miLi'ard
@@ -81,8 +81,8 @@ _dpt	_pR'esjE
 
 // symbols
 _#9	tab  // ??
-_#32	speIs
-_??	SkR'On^a
+_#32	h'ap@sir@
+_??     SkR'On^a
 _cap	_Em'aDE
 
 *	ylli  $max3	// ylli
@@ -151,6 +151,13 @@ janë	$u+
 // pronunciation exceptions
 
 SHBA S@_;b@_;'A;
+
+unë 'un@
+ajo aj'O
+ata at'a
+ato at'O
+
+ditur d'ituR
 
 disa dis'a
 muaj m'uaj

@@ -32,12 +32,12 @@
 .group e
         e        E
 
-        edhur (_  ='EDur
-        edhuri (_ ='EDuri
+        edhur (_  ='EDuR
+        edhuri (_ ='EDuRi
 
         
         e (c     'E
-        e (t_    'E // largoh'et
+//       e (t_    'E // largoh'et
     dh) e (_     'E // atdh'e, përdh'e
     
     gj) e        'E
@@ -73,7 +73,9 @@
     @C) ë (ve_   =@ // p'emëve, orëve
     @C) ë (t_    =@ // politik'anë, p'alët
     @C) ë (s_    =@ // Shk'odrës
-
+    
+    sh) ë (m_    =@
+   sht) ë (m_    =@
 .group f
         f        f
 
